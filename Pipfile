@@ -8,6 +8,12 @@ name = "pypi"
 [packages]
 
 django = "*"
+gunicorn = "*"
+"psycopg2-binary" = "*"
+dj-database-url = "*"
+python-decouple = "*"
+whitenoise = "*"
+requests = "*"
 
 
 [dev-packages]
